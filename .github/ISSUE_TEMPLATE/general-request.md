@@ -11,9 +11,15 @@ about: Propose a refactoring suggestion to improve code quality. Not related to 
 
 ### Scope
 
-Please list affected apps.
+Please choose affected apps.
 
--
+- CareClientCareOrderRequest
+- CareClientCareJourney
+- CareClientRating
+- CareTakerCareOrderCenter
+- CareTakerCareJourney
+- CareTakerPhotoInOut
+- CareTakerCareOrderHistory
 
 ### Issue Description
 
