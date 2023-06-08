@@ -1,6 +1,6 @@
 ---
 name: General issue
-about: Propose an issue.
+description: Propose a refactoring suggest not related to bugs or features.
 
 ---
 
