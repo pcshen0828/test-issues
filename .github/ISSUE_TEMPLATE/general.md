@@ -1,17 +1,39 @@
 ---
 name: General request
 about: Propose a refactoring suggestion to improve code quality. Not related to bugs or features.
-
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+### APP Version & Commit SHA
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+- APP version:
+- Commit SHA:
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### Scope
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+Apps:
+
+- [ ] CareClientCareOrderRequest
+- [ ] CareClientCareJourney
+- [ ] CareClientRating
+- [ ] CareTakerCareOrderCenter
+- [ ] CareTakerCareJourney
+- [ ] CareTakerPhotoInOut
+- [ ] CareTakerCareOrderHistory
+
+### Issue Description
+
+Please include a clear and concise description of what the problem is.
+
+-
+
+### Todo
+
+Please include a clear and concise summary of the expected solution to this issue.
+
+-
+
+### Additional Context
+
+Add any other context or screenshots about the issue or solution.
+
+-
