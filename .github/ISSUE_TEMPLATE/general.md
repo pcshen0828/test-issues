@@ -1,6 +1,6 @@
 ---
-name: General issue
-about: Propose a refactoring suggest not related to bugs or features.
+name: General request
+about: Propose a refactoring suggestion to improve code quality. Not related to bugs or features.
 
 ---
 
