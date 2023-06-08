@@ -1,6 +1,7 @@
 ---
 name: General request
 about: Propose a refactoring suggestion to improve code quality. Not related to bugs or features.
+
 ---
 
 ### APP Version & Commit SHA
@@ -10,15 +11,9 @@ about: Propose a refactoring suggestion to improve code quality. Not related to 
 
 ### Scope
 
-Apps:
+Please list affected apps.
 
-- [ ] CareClientCareOrderRequest
-- [ ] CareClientCareJourney
-- [ ] CareClientRating
-- [ ] CareTakerCareOrderCenter
-- [ ] CareTakerCareJourney
-- [ ] CareTakerPhotoInOut
-- [ ] CareTakerCareOrderHistory
+-
 
 ### Issue Description
 
